@@ -42,7 +42,7 @@
           "help": {
             "online": "https://www.iomote.com"
           },
-          "url": "https://github.com/iomote/arduino-ide-bsp/raw/master/iomote-x400_0.7.5.tar.bz2",
+          "url": "https://github.com/iomote/arduino-ide-bsp/raw/master/iomote-x400_0.7.6.tar.bz2",
           "archiveFileName": "iomote_x400-0.7.5.tar.bz2",
           "checksum": "MD5:a93d5b3a6c534764e7422d59a8eb355a",
           "size": "707602",

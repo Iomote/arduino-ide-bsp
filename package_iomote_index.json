@@ -83,6 +83,31 @@
               "version": "4.8.3-2014q1"
             }		  
           ]
+        },
+        {
+          "name": "Iomote X400",
+          "architecture": "samd",
+          "version": "0.7.8",
+          "category": "Arduino",
+          "help": {
+            "online": "https://www.iomote.com"
+          },
+          "url": "https://github.com/iomote/arduino-ide-bsp/raw/master/iomote-x400_0.7.8.tar.bz2",
+          "archiveFileName": "iomote_x400-0.7.8.tar.bz2",
+          "checksum": "MD5:1ce5f7f8443561a2af932482f8ce1221",
+          "size": "708074",
+          "boards": [
+            {
+              "name": "Iomote X400"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }		  
+          ]
         }
       ],
       "tools": []

@@ -219,8 +219,8 @@
           },
           "url": "https://github.com/iomote/arduino-ide-bsp/raw/master/iomote-x400_0.9.2.tar.bz2",
           "archiveFileName": "iomote_x400-0.9.2.tar.bz2",
-          "checksum": "MD5:a5d32885b3e4eb5315020286c979d3e5",
-          "size": "731013",
+          "checksum": "MD5:a8d2be5e479c8eb3039edb27e423c391",
+          "size": "731531",
           "boards": [
             {
               "name": "Iomote X400"
